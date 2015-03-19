@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ghglxt"
+  id="myeclipse.1332415317595"
+  context-root="/ghglxt"
+  j2ee-spec="5.0"
+  archive="ghglxt.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
